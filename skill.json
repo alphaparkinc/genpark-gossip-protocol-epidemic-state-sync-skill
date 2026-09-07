@@ -1,0 +1,15 @@
+{
+  "name": "genpark-gossip-protocol-epidemic-state-sync-skill",
+  "version": "1.0.0",
+  "description": "Anti-entropy gossip protocol and epidemic rumor-spreading state synchronizer for dynamic swarms.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "gossip-protocol",
+    "epidemic-dissemination",
+    "state-sync",
+    "anti-entropy",
+    "multi-agent"
+  ]
+}
